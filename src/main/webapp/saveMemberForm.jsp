@@ -49,7 +49,7 @@ h2 {text-align : center;
 
 </body>
 <script>
-	const findAll =()=>{
+	const findMember =()=>{
 		location.href = "findMember.jsp";
 	}
 </script>
